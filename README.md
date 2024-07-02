@@ -1,6 +1,6 @@
 # Progress Tracker App
 
-Welcome to the Progress Tracker App repository. This project is designed to track project progress, categorize projects, and provide detailed information and links for each project. Below you will find an overview, installation instructions, and other key details.
+Welcome to the Progress Tracker App repository. This project is designed to track project progress, categorize projects, and provide detailed information and links for each project. Below you will find an overview and other key details.
 
 ## Features
 
